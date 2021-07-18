@@ -6,9 +6,9 @@
 ---
 
 1. npm init -y 
-: package.json 을 만든다.
+-  package.json 을 만든다.
  
 2. npm install axios cheerio
- : 두가지 모듈 설치
+- 두가지 모듈 설치
 - axios -> 특정 url 에 html 구조를 가져온다
 - cheerio -> html 구조를 파싱 해준다.
