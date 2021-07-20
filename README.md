@@ -11,4 +11,4 @@
 2. npm install axios cheerio
 - 두가지 모듈 설치
 - axios -> 특정 url 에 html 구조를 가져온다
-- cheerio -> html 구조를 파싱 해준다.
+- cheerio -> html 구조를 파싱 하여 내가 필요한 정보( 원하는 데이터) 만 가져온다.
